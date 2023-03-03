@@ -159,6 +159,7 @@ console.log('9th task');
 
 console.log(pirminisSkaicius(3));
 console.log(pirminisSkaicius(6));
+console.log(pirminisSkaicius('A'));
 
 console.log('------');
 console.log('10th task');
@@ -166,6 +167,6 @@ console.log(':((((');
 
 masyvasTLF = [];
 function telefonoNumeris(masyvasTLF) {
-    
+
 }
 
