@@ -143,7 +143,7 @@ console.log('9th task');
 
  function pirminisSkaicius(n) {
      if (typeof n !== 'number') {
-       return 'Klaida: pateiktas parametras nėra skaičius.';
+       return 'Error: this is not a number.';
      }
      if (n < 2) {
        return false;
